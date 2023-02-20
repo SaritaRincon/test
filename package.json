@@ -1,0 +1,21 @@
+{
+  "name": "testws",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaritaRincon/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaritaRincon/test/issues"
+  },
+  "homepage": "https://github.com/SaritaRincon/test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
